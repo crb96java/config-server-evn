@@ -3,8 +3,7 @@ insurance:
     url: http://localhost:8086/insurance-service/get-all-plans
     
 sample:
-  message: hello ramesh change this value to check the @RefreshScope featur
-
+  message: hello ramesh 12
 
       
  
